@@ -2,6 +2,10 @@
 
 Implementation of the s21_matrix_oop.h library.
 
+Tested on MacOS Big Sur 11.6.6.
+
+Made on March 31 2023 as part of my education in School 21 :)
+
 ## Information
 
 ### C++ and C
